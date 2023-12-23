@@ -66,7 +66,5 @@ Welcome to the AI Content Detector project! This application is built using Flas
 - **requirements.txt:** List of Python dependencies.
 - **text.csv:** CSV file containing training data.
 
-## Contributing
 
-If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
