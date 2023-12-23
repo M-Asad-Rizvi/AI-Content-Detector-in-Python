@@ -15,7 +15,7 @@ Welcome to the AI Content Detector project! This application is built using Flas
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ai-content-detector.git
+   git clone https://github.com/M-Asad-Rizvi/AI-Content-Detector-in-Python.git
    ```
 
 2. **Change into the project directory:**
