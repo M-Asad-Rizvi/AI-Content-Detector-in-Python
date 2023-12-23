@@ -22,9 +22,10 @@ Change into the project directory:
 
    ```bash
 cd ai-content-detector
+
 Install dependencies using the requirements.txt file:
 
-   ```bash
+```bash
 pip install -r requirements.txt
 ### Usage
 Please make sure you have a CSV file with training data named text.csv. The file should contain 'content' and 'label' columns for model training.
@@ -34,14 +35,14 @@ You can use the text.csv file provided in the repo if you don't have this one.
 
 Run the Flask application:
 
-   ```bash
+```bash
 python app.py
 
 By running it will use the pre-trained model as Ai_Content_Detector.joblib.
 Open your browser and go to ` http://127.0.0.1:5000/detect?q=Your_Text_To_Analyze ` to detect AI-generated content. And it will give you the output for the given text.
 
 ### Example Output:
-   ```bash
+```bash
    
 {
   "AI_Sentence_Count": 1,
