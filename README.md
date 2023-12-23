@@ -20,7 +20,7 @@ Welcome to the AI Content Detector project! This application is built using Flas
 
 2. **Change into the project directory:**
    ```bash
-   cd ai-content-detector
+   cd AI-Content-Detector-in-Python
    ```
 
 3. **Install dependencies using the requirements.txt file:**
